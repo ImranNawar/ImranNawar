@@ -1,8 +1,9 @@
 
 - 👋 Hi, I'm @ImranNawar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming and web development
-- 👯 I’m looking to collaborate on beginner projects
+- 👀 I’m interested in programming.
+- 🔭 I’m currently working on web development.
+- 🌱 I’m currently learning Data Structures & Algorithms.
+- 👯 I’m looking to collaborate on beginner projects.
 - 📫 How to reach me: imran1nawar@gmail.com
 
 <!--
