@@ -6,7 +6,6 @@
 
 <!-- <p align="left"> <img src="https --   Profile%20views   t" alt=" --  " /> </p> -->
 
-- 👋 Hi, I'm @ImranNawar
 - 👀 I’m interested in programming.
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning Data Structures & Algorithms.
