@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrannawar&label=Profile%20views&color=0e75b6&style=flat" alt="imrannawar" /> </p>
 
-- 👀 I’m Computer Science Undergraduate Student.
+-  I’m Computer Science Undergraduate Student.
 - 🔭 I’m currently working on web development.
-- 🌱 I’m dedicating time to mastering Data Structures & Algorithms.
+- 🌱 I’m mastering Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on beginner projects.
 - 📫 How to reach me: imran1nawar@gmail.com
 
@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...👀
 -->
