@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrannawar&label=Profile%20views&color=0e75b6&style=flat" alt="imrannawar" /> </p>
 
 -  I’m Computer Science Undergraduate Student.
-- 🔭 I’m currently working on web development.
-- 🌱 I’m mastering Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on beginner projects.
+- ⚡ I'm interested in Web-Development and Competitive Coding.
+- 🔭 Learning and Exploring React.
+- 👯 I am looking to collaborate on web projects.
 - 📫 How to reach me: imran1nawar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
