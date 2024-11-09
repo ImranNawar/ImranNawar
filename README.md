@@ -1,88 +1,81 @@
+<a href="https://imrannawar.netlify.app" style="text-decoration: none; color: inherit;"><h1 align="center">👋 I'm Imran Nawar</h1></a>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00CC00&multiline=true&width=500&height=80&lines=Imran+Nawar;CS+Student+%7C+Researcher+;ML+%7C+Computer+Vision+%7C+Robotics" alt="Typing SVG" /></a>
-
-<br/>
-<a href="https://imrannawar.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-imrannawar-forest?style=flat-square">
-</a>  
-<!--
-<a href="https://---/resume.html">
-    <img src="https://img.shields.io/badge/about-Resume-forest?style=flat-square">
-</a>  
--->
-<a href="https://www.linkedin.com/in/imran-nawar/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:imran1nawar@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-forest?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<br/> 
-
-<a href="https://github.com/ImranNawar">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ImranNawar&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-
+  <img src="https://img.shields.io/badge/Computer%20Vision-🖥️-brightgreen" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-blue" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Deep%20Learning-🧠-orange" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Research-📚-yellow" alt="Research">
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrannawar&label=Profile%20views&color=0e75b6&style=flat" alt="imrannawar" /> </p>
 
-- 💡 Open to collaborating on projects and innovative ideas.
-- 💻 Currently interested in Machine Learning, Computer Vision and Robotics.
+## 🚀 About Me
 
+I'm a Research Assistant at the 𝐃𝐈𝐏 𝐋𝐚𝐛, 𝐈𝐬𝐥𝐚𝐦𝐢𝐚 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐏𝐞𝐬𝐡𝐚𝐰𝐚𝐫, with a primary research focus on computer vision, particularly in autonomous navigation over economical hardware.
+I have completed my undergraduate degree in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 from Islamia College Peshawar, Pakistan. My undergraduate studies were more focused on 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, and 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧.
+Beyond coding, I love staying up-to-date with cutting-edge research.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
- <a href="https://www.learnpython.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
- <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ImranNawar/portfolio/blob/main/src/assets/tailwind.png" width="36" height="36" alt="Tailwind" /></a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="34" height="34" alt="Figma" /></a>
- <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.buyourobot.com/wp-content/uploads/edd/2017/02/2090_unit_9-robot_thumb_reflection.jpg" alt="robotics" width="40" height="40"/> </a>
+## 🔭 My Journey
+
+- 🎓 Bachelors in Computer Science from Islamia College University, Peshawar
+- 💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
+- 🔭 Researching Deep Learning Based Autonomous Driving over Economical Hardware
+- 🌱 Always learning and staying updated with the latest in AI and computer vision
+
+## 💻 Tech Stack
+
+<p align="center">
+    <!-- Programming Languages -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    <!-- ML/DL Frameworks -->
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=yolo&logoColor=white" alt="Ultralytics">
+    <!-- Computer Vision -->
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+    <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson">
+    <!-- Development Tools -->
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <!-- Data Analysis -->
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+    <!-- Cloud/Deployment -->
+    <img src="https://img.shields.io/badge/Hugging_Face-FFB7C5?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrannawar&theme=dracula" alt="imrannawar" /></p>
+## &#x1f4c8; GitHub Stats
 
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImranNawar&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImranNawar&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImranNawar&theme=dracula)
-</details>
+<div align="center">
+    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ImranNawar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+    <img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ImranNawar&hide_border=true&background=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="GitHub Streak" />
+</div>
 
 
+## 🤝 Let's Connect
 
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/imran-nawar-a2a47a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-nawar" height="30" width="40" /></a>
-<a href="https://leetcode.com/ImranNawar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ImranNawar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imran1nawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imrannawar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21223154/imran-nawar?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imran-nawar" height="30" width="40" /></a>
-<a href="https:  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imrannawar" height="30" width="40" /></a> --> </p>
-  
-<!--  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-  <!--   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> -->
+<p align="center">
+    <a href="https://linkedin.com/in/imran-nawar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://imrannawar.netlify.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+    </a>
+    <a href="mailto:imran1nawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
 </p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrannawar&show_icons=true&locale=en&layout=compact" alt="imrannawar" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrannawar&show_icons=true&locale=en" alt="imrannawar" /></p>
--->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ImranNawar?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/ImranNawar?style=social" alt="GitHub stars">
+</p>
+
+
+
 
 <!--
 **ImranNawar/ImranNawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
