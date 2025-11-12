@@ -11,16 +11,17 @@
 
 ## 🚀 About Me
 
-I'm a Research Assistant at the 𝐃𝐈𝐏 𝐋𝐚𝐛, 𝐈𝐬𝐥𝐚𝐦𝐢𝐚 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐏𝐞𝐬𝐡𝐚𝐰𝐚𝐫, with a primary research focus on computer vision, particularly in autonomous navigation over economical hardware.
-I have completed my undergraduate degree in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 from Islamia College Peshawar, Pakistan. My undergraduate studies were more focused on 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, and 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧.
+I am a Research Assistant at the 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗜𝗺𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗗𝗜𝗣) 𝐋𝐚𝐛, 𝐈𝐬𝐥𝐚𝐦𝐢𝐚 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐏𝐞𝐬𝐡𝐚𝐰𝐚𝐫 advised by Dr. Muhammad Sajjad and Dr. Khan Muhammad. I am working at the intersection of computer vision and deep learning.
+I have completed my undergraduate degree in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 from Islamia College Peshawar, Pakistan. My undergraduate studies were more focused on 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 and 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠. I also taught AI, machine learning, and deep learning in vocational training programs.
 Beyond coding, I love staying up-to-date with cutting-edge research.
 
 ## 🔭 My Journey
 
-- 🎓 Bachelors in Computer Science from Islamia College University, Peshawar
+- 🎓 Bachelors in Computer Science from Islamia College Peshawar (Public Sector University)
 - 💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
-- 🔭 Researching Deep Learning Based Autonomous Driving over Economical Hardware
+- 🔭 Working at the intersection of computer vision and deep learning.
 - 🌱 Always learning and staying updated with the latest in AI and computer vision
+<!-- 🔭 Researching Deep Learning Based Autonomous Driving over Economical Hardware -->
 
 ## 💻 Tech Stack
 
@@ -61,12 +62,14 @@ Beyond coding, I love staying up-to-date with cutting-edge research.
 ## 🤝 Let's Connect
 
 <p align="center">
-    <a href="https://linkedin.com/in/imran-nawar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://imrannawar.netlify.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-    </a>
-    <a href="mailto:imran1nawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
+  <a href="https://linkedin.com/in/imran-nawar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://imrannawar.netlify.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:imran1nawar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.researchgate.net/profile/Imran-Nawar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
+  </a>
 </p>
 
 <p align="center">
